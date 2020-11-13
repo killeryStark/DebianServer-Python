@@ -56,3 +56,5 @@ sudo make altinstall
 ```
 sudo /home/www/.python/bin/python3.9 -m pip install -U pip
 ```
+
+Также рекомендую свой vim конфиг под python https://github.com/killeryStark/vimconfig
